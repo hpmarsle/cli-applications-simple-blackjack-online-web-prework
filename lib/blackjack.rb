@@ -54,6 +54,9 @@ end
 #####################################################
 
 def runner
-  Welcome
+  welcome
+  initial_round
+  hit?
+  
 end
     
